@@ -3,7 +3,7 @@ My name is Vadim Kirpa.
 
 Currently I'm working as a senior data scientist at Sberbank in Moscow.
 
-I develop implement machine learning algorithms for credit scoring process
+I implement various machine learning algorithms for credit scoring process.
 
 *Welcome to my GitHub page!*
 
