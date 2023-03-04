@@ -6,16 +6,9 @@ Currently I'm working as a senior data scientist at Sberbank in Moscow.
 I implement various machine learning algorithms for credit scoring process.
 
 My tech stack consists of:
-- Python
-- Pytorch
-- Scikit-Learn
-- Catboost/Lightgbm
-- Numpy
-- Pandas
-- PySpark
-- Greenplum
-- Matplotlib/Seaborn/Plotly
-- C/C++
+- **Languages**: Python, C/C++
+
+- **Tools**: Pytorch, Scikit-Learn, Catboost, Lightgbm, Numpy, Pandas, PySpark, Greenplum, Matplotlib/Seaborn/Plotly
 
 *Welcome to my GitHub page!*
 
@@ -23,19 +16,13 @@ My tech stack consists of:
 
 ## My interests
 I'm interested in 
-- Machine Learning
-  - Classic ML
-  - Deep Learning
-  - NLP
-  - CV
-  - Reinforcement Learning 
+- Machine Learning (*Classic ML, Deep Learning, NLP, CV, Reinforcement Learning*)
 - Rust
-- Flutter
-  - Mobile Development  
+- Flutter for Mobile Development  
 - Competitive Programming
-- Game Dev 
-- Web Dev
-- Capture the Flag
+- Game Dev (Dipped my toes into Unity, now getting familiar with Bevy)
+- Web Dev (Had a somewhat experience with JavaScript and React)
+- Capture the Flag - I admire hackers because in order to hack something you have to understand how the whole system works, I think it's an enourmous feat
 - Human languages in general, especially Japanese - learning it on and off for about 10 years (more off than on though ;_;)
 
 ---
