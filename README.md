@@ -31,8 +31,8 @@ My tech stack consists of:
 There are some projects I'm currenty wanting to make
 
 - The best Tower Defense game in the world
-  - The first step has alreadby been made, soon there should be a link to the repo
-- A website where I explain various Machine Learning concepts and algorithms with the best visualuzation and intuition out there (hope I'll get to that one someday)
+- The first step has already been made, soon there should be a link to the repo
+- A website where I explain various Machine Learning concepts and algorithms with the best visualuzation and intuition possible (hope I'll get to that one someday)
 - A Phone App/Website for learning Japanese Kanji by suggesting the Next Best Kanji to learn through calculating some metric on a graph of Relations between Kanji and all Japanese words. Or put it another way - If a person already knows some set of Kanji, what Kanji should they learn to maximize the amount of new words that they can learn(meaning new words that don't require any new Kanji after the said one) after they learn said Kanji.
 
 ---
